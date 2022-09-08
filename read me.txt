@@ -1,0 +1,4 @@
+to make this script work for you , you need the following:.
+
+- change the username and passowrd
+- change the file path that works with your system
